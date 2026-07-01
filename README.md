@@ -1,5 +1,4 @@
-<div align="center">
+[![GitHub Roast 评分徽章](https://ghfind.com/api/badge/reiasu2)](https://ghfind.com/u/reiasu2)
+[![GitHub Roast](https://ghfind.com/api/card/reiasu2?theme=dark)](https://ghfind.com/u/reiasu2)
 
-[![GitHub Roast 评分徽章](你的徽章链接)](你的跳转链接)
 
-</div>
